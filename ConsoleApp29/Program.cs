@@ -12,7 +12,7 @@ namespace ConsoleApp29
         {
             //Zahnradparameter:
             Console.WriteLine("Modul");
-             m = Convert.ToDouble(Console.ReadLine());
+            double m = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Zähnezahl");
             double z = Convert.ToDouble(Console.ReadLine());
